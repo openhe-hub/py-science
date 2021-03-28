@@ -1,0 +1,11 @@
+{
+    "cSpell.words": [
+        "arange",
+        "dtype",
+        "iscomplex",
+        "matmul",
+        "nditer",
+        "randn"
+    ],
+    "git.ignoreLimitWarning": true
+}
