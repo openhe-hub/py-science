@@ -18,7 +18,8 @@ if __name__ == '__main__':
     response =requests.get(url=url, params=params,headers=headers)
     list=response.json()
     print(list)
-
+    
     fp=open('./src/spider/request/films.json','w',encoding='utf-8')
     json.dump(list,fp,ensure_ascii=False)
     print('over')
+   

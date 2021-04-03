@@ -28,7 +28,9 @@ def analyze(obj, keyword):
     else:
         print(f'{len(data)}  results found:')
         for i in range(len(data)):
-            print(f'{i+1}.\n\tKeyword:{data[i]["k"]}\n\tMeaning:{data[i]["v"]}')
+            print(
+                f'{i+1}.\n\tKeyword:{data[i]["k"]}\n\tMeaning:{data[i]["v"]}')
+
 
 if __name__ == '__main__':
     info()

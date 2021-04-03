@@ -1,0 +1,81 @@
+{
+    "Table": [
+        {
+            "rowcount": 9
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 1,
+            "storeName": "龙湖",
+            "addressDetail": "人民路与滏东大街交叉口邯郸阳光龙湖商城地下一层",
+            "pro": "Wi-Fi,礼品卡,生日餐会",
+            "provinceName": "河北省",
+            "cityName": "邯郸市"
+        },
+        {
+            "rownum": 2,
+            "storeName": "邯郸新世纪餐厅",
+            "addressDetail": "丛台区中华大街29号新世纪商厦一层",
+            "pro": "Wi-Fi",
+            "provinceName": "河北省",
+            "cityName": "邯郸市"
+        },
+        {
+            "rownum": 3,
+            "storeName": "邯郸环球中心甜品",
+            "addressDetail": "人民路以南、人民南路以北（人民东路456号）环球中心5层",
+            "pro": "Wi-Fi",
+            "provinceName": "河北省",
+            "cityName": "邯郸市"
+        },
+        {
+            "rownum": 4,
+            "storeName": "邯郸环球中心餐厅",
+            "addressDetail": "人民路以南、人民南路以北（人民东路456号）环球中心负1层B127",
+            "pro": "Wi-Fi,店内参观",
+            "provinceName": "河北省",
+            "cityName": "邯郸市"
+        },
+        {
+            "rownum": 5,
+            "storeName": "新邯郸",
+            "addressDetail": "邯郸路585号地下一层B-1",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "上海市",
+            "cityName": "上海市"
+        },
+        {
+            "rownum": 6,
+            "storeName": "邯郸新世纪甜品",
+            "addressDetail": "中华大街新世纪商厦6层编号612商铺",
+            "pro": "Wi-Fi",
+            "provinceName": "河北省",
+            "cityName": "邯郸市"
+        },
+        {
+            "rownum": 7,
+            "storeName": "邯郸万达广场餐厅",
+            "addressDetail": "滏河南大街101号万达广场一层1001号商铺",
+            "pro": "Wi-Fi,点唱机,店内参观",
+            "provinceName": "河北省",
+            "cityName": "邯郸市"
+        },
+        {
+            "rownum": 8,
+            "storeName": "邯郸新世纪甜品",
+            "addressDetail": "中华大街新世纪商厦6层编号612商铺",
+            "pro": "Wi-Fi",
+            "provinceName": "河北省",
+            "cityName": "邯郸市"
+        },
+        {
+            "rownum": 9,
+            "storeName": "邯郸万达广场餐厅",
+            "addressDetail": "滏河南大街101号万达广场一层1001号商铺",
+            "pro": "Wi-Fi,点唱机,店内参观",
+            "provinceName": "河北省",
+            "cityName": "邯郸市"
+        }
+    ]
+}
