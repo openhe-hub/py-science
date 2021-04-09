@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 
 if __name__ == '__main__':
     prefix ='https://www.shicimingju.com'
-    url='https://www.shicimingju.com/book/sanguoyanyi.html'
+    url='https://bj.58.com/ershoufang/p1/'
     file_path='./src/spider/data_analyze/bs4/chapter.txt'
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63'
