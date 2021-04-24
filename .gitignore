@@ -1,2 +1,6 @@
 *.jpg
 *.rar
+*.gif
+*.db
+._*
+.DS
