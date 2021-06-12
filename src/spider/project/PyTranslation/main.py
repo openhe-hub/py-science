@@ -21,6 +21,7 @@ def translate(keyword):
 
 
 def analyze(obj, keyword):
+    
     data = obj['data']
     if len(data) == 0:
         print(f'Err:{keyword} not found.')
